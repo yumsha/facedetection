@@ -22,7 +22,7 @@ This project is a simple face recognition app using OpenCV and the [face_recogni
 
 2. Install dependencies:
    ```bash
-   pip install opencv-python face_recognition
+   pip install -r requirements.txt
    ```
 
 3. Add your reference images to the `images/` folder.
