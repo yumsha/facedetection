@@ -1,6 +1,6 @@
-# Face Recognition Wannabe
+# Face Recognition
 
-This project is a simple face recognition app using OpenCV and the [face_recognition](https://github.com/ageitgey/face_recognition) library.
+This project is a simple face recognition app using OpenCV and the [face_recognition](https://github.com/ageitgey/facedetection) library.
 
 ## Features
 - Detects faces from a webcam feed.
